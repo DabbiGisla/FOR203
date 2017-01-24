@@ -8,3 +8,8 @@ plus = tala1+tala2
 sinnum = tala1*tala2
 print ("Tölurnar lagðar saman er samtals: " +str(plus))
 print ("Tölurnar margfaldaðar saman er samtals: " +str(sinnum))
+
+#Dæmi 2
+fornafn = input("Hvað er fornafnið þitt? ")
+eftirnafn = input("Hvað er eftirnafnið þitt? ")
+print ("Halló "+fornafn+" "+ eftirnafn)
